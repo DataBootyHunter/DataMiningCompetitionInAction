@@ -1,31 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5735c731-6a66-48ad-b91c-779b15db100b" name="Changes" comment="">
+    <list default="true" id="5735c731-6a66-48ad-b91c-779b15db100b" name="Changes" comment="更正章节标题">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/EDA/EDA.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/EDA/feature_importance.hdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/EDA/feature_importance.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/第3章-结构化数据实战/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/framework.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/input/download_command.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/log/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/output/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/run.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/src/ensemble/opt_weights.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/src/feature_engineer/bubl-ts.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/src/feature_engineer/buro-training.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/src/feature_engineer/cc-ts.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/src/feature_engineer/house-doc-feats.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/src/feature_engineer/inst-ts.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/src/feature_engineer/month-training.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/src/feature_engineer/pos-ts.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/src/feature_engineer/prev-training.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/src/model/lgb1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/src/model/lgb2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/src/model/lgb3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第3章-结构化数据实战/src/model/xgb1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +23,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "true",
+    "last_opened_file_path": "/Users/caixiaochen/workspace/DataMiningCompetitionInAction",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,10 +48,35 @@
       <workItem from="1675132391536" duration="607000" />
       <workItem from="1675935546133" duration="635000" />
       <workItem from="1675948187664" duration="17000" />
+      <workItem from="1718081923717" duration="1220000" />
     </task>
+    <task id="LOCAL-00001" summary="更正章节标题">
+      <option name="closed" value="true" />
+      <created>1711376934248</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711376934248</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更正章节标题" />
+    <option name="LAST_COMMIT_MESSAGE" value="更正章节标题" />
   </component>
 </project>
